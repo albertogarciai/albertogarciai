@@ -1,13 +1,13 @@
 # 👋 ¡Hola! Soy Alberto
 
-Soy Business Development Manager con más de 8 años de experiencia liderando equipos, gestionando cuentas clave y haciendo crecer marcas en sectores como Gran Consumo y Distribución.  
+Soy Business Development Manager con experiencia liderando equipos, gestionando cuentas clave y haciendo crecer marcas en sectores como Gran Consumo y Distribución.  
 Actualmente, he ampliado mi perfil hacia el análisis de datos y la Inteligencia Artificial para combinar **visión estratégica de negocio** con **soluciones basadas en datos que generen impacto real**.
 
 ---
 
 ## 🚀 Sobre mí
 
-- 📍 Basado en Madrid, España.
+- 📍 Madrid, España.
 - 🎯 Especialista en desarrollo de negocio, optimización de operaciones y gestión de equipos.
 - 🧠 Apasionado por la Inteligencia Artificial, la analítica y la automatización de procesos.
 - 📚 Actualmente cursando **Máster en Inteligencia Artificial en Evolve Academy**.
@@ -40,7 +40,7 @@ Si quieres hablar sobre datos, IA aplicada al negocio, desarrollo de proyectos o
 
 # 👋 Hi there! I’m Alberto
 
-I am a Business Development Manager with over 8 years of experience leading teams, managing key accounts, and driving brand growth in fast-moving sectors like FMCG and Distribution.  
+I am a Business Development Manager with experience leading teams, managing key accounts, and driving brand growth in fast-moving sectors like FMCG and Distribution.  
 Currently, I am expanding my profile towards data analysis and Artificial Intelligence, combining **business vision** with **data-driven solutions that create real impact**.
 
 ---
