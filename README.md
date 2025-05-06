@@ -44,7 +44,7 @@ TF-IDF · Text Classification · Supervised Models
 
 Feel free to reach out if you want to discuss **data**, **AI applied to business**, **project development**, or potential **collaborations**:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](#)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albertogarciai/)  
 [![Website](https://img.shields.io/badge/-My%20Website-000000?style=flat&logo=About.me&logoColor=white)](#)
 
 ---
