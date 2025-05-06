@@ -11,7 +11,7 @@ Currently expanding my profile towards **Data Analysis** and **Artificial Intell
 📍 **Location**: Madrid, Spain  
 🎯 **Expertise**: Business development, operations optimization, team leadership  
 🧠 **Passions**: Artificial Intelligence, data analytics, process automation  
-🎓 **Education**: Currently pursuing a Master’s in Artificial Intelligence at **Evolve Academy**
+🎓 **Education**: Currently pursuing a Master’s in Artificial Intelligence at [**Evolve Academy**](https://evolveacademy.es/titulacion/inteligencia-artificial/?utm_source=google&utm_medium=paid&utm_campaign=branding&utm_term=evolve-academy&utm_content=evolve-academy&gad_source=1&gclid=Cj0KCQiA8fW9BhC8ARIsACwHqYrnEG-NXaofhz4SqON2C79jxrvoxpCDQJiV4SUrG6T_Ot6c4OLUka0aAgnPEALw_wcB)
 
 ---
 
@@ -34,7 +34,7 @@ Decision Trees · Random Forest
 TF-IDF · Text Classification · Supervised Models
 
 **Other Tools**  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/albertogarciai)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)
 
@@ -45,7 +45,7 @@ TF-IDF · Text Classification · Supervised Models
 Feel free to reach out if you want to discuss **data**, **AI applied to business**, **project development**, or potential **collaborations**:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albertogarciai/)  
-[![Website](https://img.shields.io/badge/-My%20Website-000000?style=flat&logo=About.me&logoColor=white)](#)
+[![Website](https://img.shields.io/badge/-My%20Website-000000?style=flat&logo=About.me&logoColor=white)](https://albertogarcia.carrd.co/)
 
 ---
 
