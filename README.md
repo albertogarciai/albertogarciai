@@ -30,7 +30,7 @@ Currently, I am expanding my profile towards data analysis and Artificial Intell
 Feel free to reach out if you want to talk about data, AI applied to business, project development or potential collaborations:
 
 - [LinkedIn](https://www.linkedin.com/in/albertogarciai/)
-- 📧 alberto392g@gmail.com
+- [My website](https://albertogarcia.carrd.co/)
 
 ---
 
