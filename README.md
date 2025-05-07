@@ -54,5 +54,4 @@ Feel free to reach out if you want to discuss **data**, **AI applied to business
 
 ---
 
-> _"Connecting business with Artificial Intelligence is the next step to lead any industry.  
-> That’s my focus."_
+> _"Connecting business with Artificial Intelligence is the next step to lead any industry. That’s my focus."_
