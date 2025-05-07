@@ -40,7 +40,7 @@ TF-IDF · Text Classification · Supervised Models
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-!(https://img.shields.io/badge/apple%20silicon-333333?style=flat&logo=apple&logoColor=white)
+![Apple Silicon](https://img.shields.io/badge/apple%20silicon-333333?style=flat&logo=apple&logoColor=white)
 ---
 
 ## 📬 Contact
