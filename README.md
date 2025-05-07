@@ -36,7 +36,7 @@ Decision Trees · Random Forest
 **Natural Language Processing (NLP)**  
 TF-IDF · Text Classification · Supervised Models
 
-**Other Tools**  
+*Other Tools*
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/albertogarciai)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)
