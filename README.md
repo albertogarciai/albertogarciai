@@ -1,5 +1,5 @@
 
-# 👋 Hi there! I’m **Alberto**
+# 👋 Hi! I’m **Alberto**
 
 **Business Development Manager** with proven experience leading teams, managing key accounts, and driving brand growth in fast-paced sectors like **FMCG** and **Distribution**.  
 Currently expanding my profile towards **Data Analysis** and **Artificial Intelligence**, blending business acumen with data-driven solutions that deliver real impact.
