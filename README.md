@@ -6,16 +6,16 @@ Currently expanding my profile towards **Data Analysis** and **Artificial Intell
 
 ---
 
-## 🚀 About Me
+## About Me
 
-📍 **Location**: Madrid, Spain  
-🎯 **Expertise**: Business development, operations optimization, team leadership  
-🧠 **Passions**: Artificial Intelligence, data analytics, process automation  
-🎓 **Education**: Currently pursuing a Master’s in Artificial Intelligence at [Evolve Academy](https://evolveacademy.es/titulacion/inteligencia-artificial/?utm_source=google&utm_medium=paid&utm_campaign=branding&utm_term=evolve-academy&utm_content=evolve-academy&gad_source=1&gclid=Cj0KCQiA8fW9BhC8ARIsACwHqYrnEG-NXaofhz4SqON2C79jxrvoxpCDQJiV4SUrG6T_Ot6c4OLUka0aAgnPEALw_wcB)
+**Location**: Madrid, Spain  
+**Expertise**: Business development, operations optimization, team leadership  
+**Passions**: Artificial Intelligence, data analytics, process automation  
+**Education**: Currently pursuing a Master’s in Artificial Intelligence at [Evolve Academy](https://evolveacademy.es/titulacion/inteligencia-artificial/?utm_source=google&utm_medium=paid&utm_campaign=branding&utm_term=evolve-academy&utm_content=evolve-academy&gad_source=1&gclid=Cj0KCQiA8fW9BhC8ARIsACwHqYrnEG-NXaofhz4SqON2C79jxrvoxpCDQJiV4SUrG6T_Ot6c4OLUka0aAgnPEALw_wcB)
 
 ---
 
-## 🛠️ Skills and Tools
+## Skills and Tools
 
 **Languages**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -45,7 +45,7 @@ TF-IDF · Text Classification · Supervised Models
 
 ---
 
-## 📬 Contact
+## Contact
 
 Feel free to reach out if you want to discuss **data**, **AI applied to business**, **project development**, or potential **collaborations**:
 
